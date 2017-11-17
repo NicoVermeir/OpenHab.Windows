@@ -87,7 +87,7 @@
                                 Content="Save" />
                         <Button Click="ButtonCancel_OnClick" Content="Cancel" />
                     </StackPanel>
-                    <TextBlock FontSize="9" Text="v0.5 Beta" />
+                    <TextBlock FontSize="9" Text="v0.6 Beta" />
                 </StackPanel>
             </ScrollViewer>
         </Grid>
